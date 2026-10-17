@@ -119,6 +119,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [stickK](http://www.stickk.com/) - Goal tracking with a monetary commitment.
 - [Beeminder](https://www.beeminder.com/) - Goal tracking with a monetary commitment. Integrates with many devices and apps.
 - [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
+- [Plannedo](https://plannedo.com/) - Daily planner where each goal is a visual board; tasks and habits attach to goals, and an evening check-in shows which goals moved (Web, iOS, macOS).
 
 ### Habits
 - [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
